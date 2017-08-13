@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	}
+body{
+	background:#CCC;
+	}
+.nav_wrapper
+   {
+	  width:100%;
+	  height:70px; 
+	  background:;
+	   }
+ .nav_container{
+	 width:70%;
+	 height:70px;
+	 background:#999;
+	 margin:auto;
+	 }
+.user_info{
+	width:50%;
+	height:40px;
+	padding-top:15px;
+	background:;
+	float:left;
+	}
+.nav_menu{
+	width:50%;
+	height:40px;
+	padding-top:15px;
+	background:;
+	float:left;
+	}
+.nav_user_image{float:left;}
+.user_info > p{float:left;padding-top:10px;padding-left:10px;}
+.nav_menu > ul {float:right;}
+.nav_menu > ul >li {float:left;list-style:none;padding-left:17px;padding-top:10px;padding-right:5px;}
+.bio_wrapper{
+	 width:100%;
+	  height:450px; 
+	  background:;
+	}
+.bio_container{
+	width:70%;
+	  height:450px; 
+	  background:red;
+	  margin:auto;
+	  margin-top:20px;
+	  
+	}
+.bio_aside_left{
+	width:50%;
+	height:450px;
+	float:left;
+	background:#16b07c;
+
+  
+   
+	
+	}
+.bio_aside_right{
+	width:50%;
+	height:450px;
+	float:left;
+	background:yellow;
+	
+	}
+.bio_info{
+	width:60%;
+	height:300px;
+	background:;
+	margin-left:10%;
+	margin-top:10%;
+	}
+.welcome_msg{color:white;}
+.first_name{color:white;font-size:30pt;font-weight:bold; }
+.last_name{color:white;font-size:30pt;font-weight:bold;line-height:20px;}
+.bio_about{padding-top:20px;color:white;}
+.user_image{width:100%;height:100%;}
+.about_wrapper{
+	margin-top:20px;
+	width:100%;
+	height:450px;
+	}
+.about_container{
+	
+	width:70%;
+	height:450px;
+	margin:auto;
+	background:red;
+	}
+
